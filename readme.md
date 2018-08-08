@@ -1,16 +1,16 @@
-## pool
+# pool
 
 > golang 协程池
 
-### 安装
+## 安装
 
-```
+```bash
 go get github.com/xuanbo/pool
 ```
 
-### 使用
+## 使用
 
-```
+```golang
 package main
 
 import (
@@ -38,6 +38,6 @@ func main() {
 }
 ```
 
-### 参考
+## 参考
 
 [使用Go语言每分钟处理1百万请求（译）](https://mp.weixin.qq.com/s?__biz=MjM5OTcxMzE0MQ==&mid=2653369770&idx=1&sn=044be64c577a11a9a13447b373e80082&chksm=bce4d5b08b935ca6ad59abb5cc733a341a5126fefc0e6600bd61c959969c5f77c95fbfb909e3&mpshare=1&scene=1&srcid=1010dpu0DlPHi6y1YmrixifX#rd)
